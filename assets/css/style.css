@@ -24,7 +24,9 @@ body {
     color: #d9dcd6;
 }
 
-.header div {
+/* will break if done right  */
+
+.header section {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,15 +34,15 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+.header section ul {
     list-style-type: none;
 }
 
-.header div ul li {
+.header section ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* end of thing that will break */
 a {
     color: #ffffff;
     text-decoration: none;
