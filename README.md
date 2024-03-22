@@ -1,11 +1,8 @@
-## Name
+## Project Name
 Semantic HTMl projecet
 
 ## Description
 In this project I was expected to change non semantic html tags to semantic tags and then fix the css so that the webpage doesn't change. 
-
-## Visuals
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
 
 ## Usage
 This project can be used as an exsample for ow to use semantic tags.
